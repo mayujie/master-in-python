@@ -66,5 +66,7 @@ print(new_emp_1.pay)
 
 my_date = datetime.date(2021, 10, 12)
 print(Employee.is_workday(my_date))
+print(new_emp_1.is_workday(my_date))
 my_date = datetime.date(2021, 10, 16)
 print(Employee.is_workday(my_date))
+print(new_emp_1.is_workday(my_date))
