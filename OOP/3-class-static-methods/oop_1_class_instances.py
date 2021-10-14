@@ -1,5 +1,7 @@
 import datetime
-
+# https://www.youtube.com/watch?v=ZDa-Z5JzLYM&ab_channel=CoreySchafer
+# https://www.youtube.com/watch?v=BJ-VvGyQxho&t=0s&ab_channel=CoreySchafer
+# https://www.youtube.com/watch?v=rq8cL2XMM5M&ab_channel=CoreySchafer
 class Employee:
     num_of_emps = 0
     raise_amount = 1.04

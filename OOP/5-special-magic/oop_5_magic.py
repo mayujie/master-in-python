@@ -1,3 +1,4 @@
+# https://www.youtube.com/watch?v=3ohzBxoFHAY&ab_channel=CoreySchafer
 class Employee:
     raise_amt = 1.04
 
