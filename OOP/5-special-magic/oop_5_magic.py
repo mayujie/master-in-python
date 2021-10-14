@@ -31,8 +31,8 @@ emp_2 = Employee('Test', 'Employee', 60000)
 
 print(emp_1)
 print(repr(emp_1))
-print(str(emp_1))
 print(emp_1.__repr__())
+print(str(emp_1))
 print(emp_1.__str__())
 
 print(emp_1 + emp_2)
